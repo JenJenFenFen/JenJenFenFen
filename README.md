@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JenJenFenFen. I'm still newbie and still a lot learning
+- 👀 I’m interested in Full-Stack Development escpecially Back-end
+- 🌱 I’m currently learning HTML, CSS, JQuery, SQL, and Node.js
